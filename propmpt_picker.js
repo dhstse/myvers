@@ -30,7 +30,7 @@ function chooseRandomPrompt() {
   "What have I accomplished recently that would have shocked me a year ago?",
   "What's the best gift I gave give myself in this chapter of my life?",
   "What's non-negotiable in my life?",
-  "What's one small step I can take today towards a goal that feels out of reach?"
+  "What's one small step I can take today towards a goal that feels out of reach?",
   "What have I tolerated in the past that I no longer have space for?",
   "What have a outgrown recently? What am I growing into?",
   "What have I always accepted as true that turned out to be false?",
